@@ -1,5 +1,5 @@
 # Data-Insertion-and-Handling-Nulls
-## 🎯 Objective
+##  Objective
 
 - Insert data into tables created in the schema design task
 - Handle NULL values and default entries appropriately
@@ -8,13 +8,13 @@
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 - MySQL Workbench 8.x
 
 ---
 
-## 🧾 Database Tables Involved
+##  Database Tables Involved
 
 This task uses the following tables from the e-commerce schema:
 
